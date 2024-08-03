@@ -10,7 +10,7 @@
 
 
 ## The book is about?
-bringing a solid foundation in data structures and algorithms with Go, to build scalable applications. Complete with hands-on tutorials, this book will guide the user in using the best data structures and algorithms for problem solving.
+its about bringing a solid foundation in data structures and algorithms with Go, to build scalable applications. Complete with hands-on tutorials, this book will guide the user in using the best data structures and algorithms for problem solving.
 
 This book covers the following exciting features:
 * Improve application performance using the most suitable data structure and algorithm 
@@ -19,6 +19,7 @@ This book covers the following exciting features:
 * Analyze the cost and benefit trade-off to identify algorithms and data structures for problem solving 
 * Explore techniques for writing pseudocode algorithm and ace whiteboard coding in interviews 
 * Discover the pitfalls in selecting data structures and algorithms by predicting their speed and efficiency 
+## I enjoyed  and I learned a lot reading this book , iam forever grateful  for finding this book...its really good
 
  Get your [copy](https://www.amazon.com/dp/1789618509) today!
 
